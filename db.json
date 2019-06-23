@@ -1,14 +1,26 @@
+<<<<<<< HEAD
 {
+	"Top Tens One":
 	[
 		{"title":"Top Ten Capital Cities"},
 		{"city":"Islamabad", "country":"Pakistan","position":"1st"},
 		{"city":"London","country":"Britain","position":"2nd"},
 		{"city":"Paris","country":"France","position":"3rd"}
 	],
+	"Top Tens Two":
 	[
 		{"title":"Top Ten Capital Cities"}
 		{"city":"Tokyo","country":"Japan","position":"4th"},
 		{"city":"Berlin","country":"Germany","position":"5th"},
 		{"city":"Ottawa","country":"Canada","position":"6th"}
+	],
+	"Top Tens Three":
+	[
+		{"title":"Top Ten Capital Cities"}
+		{"city":"Washington","country":"United States","position":"7th"},
+		{"city":"Athens","country":"Greece","position":"8th"},
+		{"city":"Copahengen","country":"Denmark","position":"9th"},
+		{"city":"Rome","country":"Italy","position":"10th"}
 	]
 }
+
