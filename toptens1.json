@@ -1,4 +1,4 @@
-var toptens = [
+[
 	{"title":"Top Ten Capital Cities"},
 	{"city":"Islamabad", "country":"Pakistan","position":"1st"},
 	{"city":"London","country":"Britain","position":"2nd"},

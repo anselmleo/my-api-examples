@@ -1,4 +1,5 @@
-var toptens = [
+[
+	{"title":"Top Ten Capital Cities"}
 	{"city":"Washington","country":"United States","position":"7th"},
 	{"city":"Athens","country":"Greece","position":"8th"},
 	{"city":"Copahengen","country":"Denmark","position":"9th"},
