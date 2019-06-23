@@ -1,0 +1,6 @@
+var toptens = [
+	{"city":"Washington","country":"United States","position":"7th"},
+	{"city":"Athens","country":"Greece","position":"8th"},
+	{"city":"Copahengen","country":"Denmark","position":"9th"},
+	{"city":"Rome","country":"Italy","position":"10th"}
+]
